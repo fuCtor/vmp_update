@@ -1,0 +1,6 @@
+source 'https://rubygems.org'
+gem 'e'
+gem 'trollop'
+gem 'sqlite3'
+gem 'json'
+gem 'thin'
